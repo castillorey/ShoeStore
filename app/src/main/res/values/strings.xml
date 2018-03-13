@@ -1,0 +1,34 @@
+<resources>
+    <string name="titulo">Calcular cotización</string>
+    <string name="tipoSexo">Sexo:</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="tipoZapato">Tipo de Zapato:</string>
+    <string name="tipoMarca">Tipo de marca:</string>
+    <string name="cotizar">Cotizar</string>
+    <string name="cantidadZapatos">Cantidad de zapatos</string>
+    <string name="dolar">USD</string>
+    <string name="peso">COP</string>
+    <string-array name="tipoDivisa">
+        <item>@string/dolar</item>
+        <item>@string/peso</item>
+    </string-array>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clásico</string>
+    <string-array name="tipoZapato">
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+    </string-array>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string-array name="tipoMarca">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+    <string name="error_cantidad_cero">Digite una cantidad diferente de cero</string>
+    <string name="error_cantidad_vacio">Digite una cantidad</string>
+    <string name="app_name">ShoeStore</string>
+    <string name="divisa">COP</string>
+</resources>

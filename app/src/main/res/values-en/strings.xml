@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="titulo">"Calculating quote "</string>
+    <string name="tipoSexo">Sex:</string>
+    <string name="mujer">Woman</string>
+    <string name="hombre">Man</string>
+    <string name="tipoZapato">Type of shoe:</string>
+    <string name="tipoMarca">Brand type:</string>
+    <string name="cotizar">Quantize</string>
+    <string name="cantidadZapatos">Amount</string>
+    <string name="dolar">USD</string>
+    <string name="peso">COP</string>
+    <string name="zapatilla">Shoe</string>
+    <string name="clasico">Classic</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="error_cantidad_cero">Type a different amount</string>
+    <string name="error_cantidad_vacio">type a amount</string>
+    <string name="divisa">USD</string>
+</resources>
